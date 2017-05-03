@@ -1,10 +1,3 @@
-**********************************************
-Samuel Tracz
-0927451
-CIS 3490 Assignment 3
-March 13, 2017
-**********************************************
-
 *************************
 Compilation
 *************************
@@ -27,7 +20,7 @@ Notes
 -either my horsepool or my b-m sometimes do not give the correct answer for the amount of occurences.(The search for "not" gave me different results, but other words seem fine)
 
 *****************************
-Question 2.4
+Sample comparisons
 *****************************
 pattern|time ratios(horsepool:b-m)(milliseconds)|shift ratio
 "a" | 46:25 | 3296591:1591939
