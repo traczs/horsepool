@@ -1,8 +1,4 @@
-/*********************************8
-Samuel Tracz
-0927451
-run: ./P11.c data_4.txt
-**************************************/
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
